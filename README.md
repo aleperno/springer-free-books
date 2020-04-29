@@ -1,5 +1,5 @@
 # springer-free-books
-Python Script to download Springer Books
+Python Script to download Springer Books, with support of multi-threads
 
 When ran the first time, the script will download a Excel file containing all
 the available books. It will download ALL the books listed in the file, once it
