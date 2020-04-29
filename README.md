@@ -1,7 +1,7 @@
 # springer-free-books
 Python Script to download Springer Books
 
-When ran the first time, the script will download a Excell file containing all
+When ran the first time, the script will download a Excel file containing all
 the available books. It will download ALL the books listed in the file, once it
 downloads it, it prompts a message and waits for an ENTER.
 
@@ -18,7 +18,8 @@ organized by folders for each of the categories.
 ## Requirements
 Install requirements by
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 ## Usage
